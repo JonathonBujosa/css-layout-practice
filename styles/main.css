@@ -25,6 +25,11 @@ a {
 /* ================================= 
   Base Layout Styles
 ==================================== */
+/* ---- Navigation---- */
+
+.name {
+	margin-top: 0;
+}
 
 /* ---- Layout Containers ---- */
 
