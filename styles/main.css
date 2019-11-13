@@ -41,6 +41,10 @@ a {
 	background: #3acec2;
 }
 
+.wrap {
+	min-height: calc(100vh - 89px);
+}
+
 .main-footer {
 	padding: 2em 0;
 	background: #d9e4ea;
@@ -55,9 +59,7 @@ a {
 
 @media ( min-width: 769px ) {
 
-	.wrap {
-		min-height: calc(100vh - 89px);
-	}
+	
 
 	.container {
 	width: 70%;
